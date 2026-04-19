@@ -85,7 +85,7 @@ These gaps lead to poor inventory decisions, missed sales opportunities, and wea
 
 •	Empower non-technical users with interactive slicers for self-service analysis.
 
-## 7.API Reference
+## 7.Key Visuals
 
 
 | 📊  Clustered Column Chart — Sales of Tractor Parts 
