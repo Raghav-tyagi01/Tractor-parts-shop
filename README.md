@@ -148,3 +148,5 @@ These gaps lead to poor inventory decisions, missed sales opportunities, and wea
 
 •With interactive visuals and a month slicer, decision-makers can quickly analyse any time period without technical knowledge, leading to smarter inventory and sales decisions.
 
+## 10.ScreenShot
+<img width="1333" height="735" alt="Screenshot 2026-04-19 151724" src="https://github.com/user-attachments/assets/a747b68f-3fde-4684-88f8-770e6f854972" />
