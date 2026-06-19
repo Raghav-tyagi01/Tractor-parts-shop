@@ -26,9 +26,9 @@ It enables stakeholders to monitor monthly revenue trends, compare sales across 
 
 ## 3.  Tech Stack
 
-•BI Tool	Microsoft Power BI Desktop (v2.152.856.0, Release 2026.03)
+•BI Tool	Microsoft Power BI Desktop.
 
-•Data Source Layer	Microsoft Excel / CSV (Sheet1)
+•Data Source Layer	Microsoft Excel.
 
 •Data Modelling	Power Query (ETL), DAX measures
 
